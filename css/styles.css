@@ -37,10 +37,10 @@ body{
 
 
 .card{
-    max-width: 375px;
+    
     background-color: white;
     border-radius: 15px;
-    
+    max-width: 375px;
 
 }
 
