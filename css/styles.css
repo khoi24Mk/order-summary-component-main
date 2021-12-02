@@ -26,14 +26,12 @@ html{
 
 body{
     
-    min-width: 100vh;
     
-
     display: flex;
     justify-content:center;
     align-items: center;
     padding: 25px;
-
+    min-width: 100vh;
 }
 
 
